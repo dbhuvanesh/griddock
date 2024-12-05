@@ -1,0 +1,13 @@
+{
+  "name": "gridlock",
+  "version": "0.0.1",
+  "scripts": {
+    "clean": ""
+  },
+  "author": "Bhuvanesh Duvvuri",
+  "license": "ISC",
+  "description": "A flexible grid based css library",
+  "devDependencies": {
+    "clean-css": "^5.3.3"
+  }
+}
