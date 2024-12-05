@@ -5,7 +5,7 @@
     "clean": "cleancss -o css/griddock.min.css css/griddock.css"
   },
   "author": "Bhuvanesh Duvvuri",
-  "license": "ISC",
+  "license": "BSD 3-Clause License",
   "description": "A flexible grid based css library",
   "devDependencies": {
     "clean-css-cli": "^5.6.3"
