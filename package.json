@@ -2,12 +2,12 @@
   "name": "griddock",
   "version": "0.0.1",
   "scripts": {
-    "clean": ""
+    "clean": "cleancss -o css/griddock.min.css css/griddock.css"
   },
   "author": "Bhuvanesh Duvvuri",
   "license": "ISC",
   "description": "A flexible grid based css library",
   "devDependencies": {
-    "clean-css": "^5.3.3"
+    "clean-css-cli": "^5.6.3"
   }
 }
